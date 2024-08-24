@@ -1,0 +1,1 @@
+This statistics calculator project, uses array manipulation methods, such as map(), reduce(), and filter() to handle user input, DOM manipulation, and method chaining to perform statistical calculations like mean, median, mode, variance, and standard deviation.
